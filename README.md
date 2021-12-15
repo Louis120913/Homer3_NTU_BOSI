@@ -8,7 +8,7 @@ Homer3 is developed and maintained by the [Boston University Neurophotonics Cent
 * [Homer3 Community & Support Forum](https://openfnirs.org/community/homer3-forum/)
 
 ===========================================================================
-# Notes by Louis Chang (2021/12/15)
+# Notes by Louis Chang (2021/12/15 updated)
 This is rewritten from Homer3_development branch (v1.31.2), modified by Louis Tai-Jai Chang (張太睿) and used for broadband functional near-infrared spectroscopy analysis in my master thesis: "Evaluation and Comparison of the Hemodynamic Response Function of the Prefrontal Cortex by Broadband Functional Near-Infrared Spectroscopy and Functional Magnetic Resonance Imaging." (Biomedical Optical Spectroscopy and Imaging Lab, Graduate Institute of Biomedical Electronics and Bioinformatics, NTU)
 
 Our lab (BOSI Lab) has made our own CW-fNIRS system, and actually, we can measure and analyze over 5 different wavelengths at the same time.
