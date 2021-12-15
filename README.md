@@ -7,7 +7,8 @@ Homer3 is developed and maintained by the [Boston University Neurophotonics Cent
 * [Downloading Homer3](https://github.com/BUNPC/Homer3/wiki/Download-and-Installation)
 * [Homer3 Community & Support Forum](https://openfnirs.org/community/homer3-forum/)
 
-=======================================================================================
+==========================================================================================
+
 This is rewritten from Homer3 development branch (v1.31.2).
 ![image](https://user-images.githubusercontent.com/27907938/146158609-f67df2d1-1bcc-403b-a894-849f3ff12393.png)
 
