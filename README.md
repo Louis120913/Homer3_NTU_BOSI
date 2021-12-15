@@ -17,6 +17,6 @@ You can place your own probe design on the real brain model of subjects by using
 
 If you have any questions about using this version of Homer3, please contact me via: louis120913@gmail.com
 
-# Recommandanded Analysis Steps (Methods used in thesis) 
+# Recommandanded Analysis Steps
 
 ![image](https://user-images.githubusercontent.com/27907938/146167717-9ca5d535-87b0-4784-8356-7b3312c266bb.png)
