@@ -13,10 +13,10 @@ This is rewritten from Homer3_development branch (v1.31.2), modified by Louis Ta
 
 Our lab (BOSI Lab) has made our own CW-fNIRS system, and actually, we can measure and analyze over 5 different wavelengths at the same time.
 And with the Monte Carlo method which was developed by our lab team, we can get optical parameters for different subjects (mainly for mean pathlengths).
-You can place your own probe design on the real brain model of subjects by using AltasViewer/Freesurfer/SPM12 in your experiments.
+You can also place your own probe design on the real brain model of subjects by using AltasViewer/Freesurfer/SPM12 in your experiments.
 
 If you have any questions about using this version of Homer3, please contact me via: louis120913@gmail.com
 
 # Recommandanded Analysis Steps from my Thesis
 
-![image](https://user-images.githubusercontent.com/27907938/146167717-9ca5d535-87b0-4784-8356-7b3312c266bb.png)
+![image](https://user-images.githubusercontent.com/27907938/146170220-cf13a79b-7313-4ea3-8b99-0bb43fed1f89.png)
