@@ -1,0 +1,68 @@
+
+MainGUI: 12ды 15, 2021, 14:22:48 -  Will load group folder #1 - C:/Users/Louis Chang/Desktop/Homer3_creator/TC/
+
+Current GroupClass version 1.2
+DataTreeClass.FindAndLoadGroups: Found 8 data files in 1 folders
+Current GroupClass version 1.2
+
+Added group TC to dataTree.
+   Added subject D1TC to group TC.
+     Added run D1TC_run01.snirf to subject D1TC.
+     Added run D1TC_run02.snirf to subject D1TC.
+     Added run D1TC_run03.snirf to subject D1TC.
+     Added run D1TC_run04.snirf to subject D1TC.
+   Added subject D2TC to group TC.
+     Added run D2TC_run01.snirf to subject D2TC.
+     Added run D2TC_run02.snirf to subject D2TC.
+     Added run D2TC_run03.snirf to subject D2TC.
+     Added run D2TC_run04.snirf to subject D2TC.
+
+Loaded group TC acquisition data in 16.7 seconds
+  Derived data output folder   : C:/Users/Louis Chang/Desktop/Homer3_creator/TC/homerOutput/
+  Derived data output file     : groupResults.mat
+
+Saved group data, version 1.2 exists
+Loaded data set in 23.5 seconds
+Loaded saved registry C:/Users/Louis Chang/Desktop/Homer3-development/FuncRegistry/UserFunctions/Registry.mat
+Displaying channels [] in data blocks [1]
+
+Logger: Chapter 1
+
+MainGUI: 12ды 15, 2021, 14:23:24 - Startup time - 35.9 seconds
+
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
